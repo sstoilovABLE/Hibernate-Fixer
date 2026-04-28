@@ -46,6 +46,8 @@ If hibernate **still fails**, the script reports which blockers remain active an
 
 ## Usage
 
+First, download the `HibernateFix.ps1` file directly from this repository.
+
 ### Run directly (recommended)
 
 Right-click `HibernateFix.ps1` → **Run with PowerShell**. The UAC prompt will appear; accept it. The script handles the rest.
